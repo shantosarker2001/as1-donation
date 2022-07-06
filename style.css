@@ -4,7 +4,7 @@
 }
 
 .conatainer {
-    width: 80%;
+    width: 100%;
 }
 
 body {
@@ -136,6 +136,10 @@ p {
 
 }
 
+.flexible_container {
+    width: 100%;
+}
+
 .list {
     list-style-type: none;
 }
@@ -156,7 +160,7 @@ p {
 
 .flexible_container {
     display: flex;
-    width: 60%;
+    width: 70%;
     margin: 20px 300px;
 }
 
