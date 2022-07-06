@@ -20,7 +20,7 @@ body {
 
 .header_banner {
     background-image: url(img/donation13.jpg);
-    back background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -32,7 +32,6 @@ h1 {
 
 h2 {
     font-size: 40px;
-    ;
 }
 
 p {
