@@ -34,8 +34,12 @@ h2 {
     font-size: 40px;
 }
 
+.header_banner p {
+    color: #f5eded;
+}
+
 p {
-    color: #d3c7c7;
+    color: gray;
 
 }
 
@@ -181,6 +185,10 @@ p {
 
 }
 
+.get_updates p {
+    color: gray;
+}
+
 .btn {
     margin-left: 0px;
     display: inline-block;
@@ -219,7 +227,6 @@ p {
     text-align: center;
     background-color: #1a1818;
     padding: 20px;
-
 }
 
 .footer h3 {
