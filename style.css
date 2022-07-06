@@ -214,15 +214,11 @@ p {
 .footer {
     width: 100%;
     text-align: center;
-    background-color: black;
+    background-color: #1a1818;
     padding: 20px;
 
 }
 
 .footer h3 {
     color: #a02c02;
-}
-
-section:last-child {
-    margin-bottom: none;
 }
